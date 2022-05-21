@@ -1,6 +1,8 @@
 import email from "../assets/email.png";
 import mobile from "../assets/mobile.png";
 import api from "../assets/api.png";
+import csharp from "../assets/csharp.png";
+import asp from "../assets/asp.png";
 import cpp from "../assets/cpp.png";
 import css from "../assets/css.png";
 import figma from "../assets/figma.png";
@@ -24,6 +26,7 @@ import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
 
 import profile from "../assets/profile.png";
+import profile01 from "../assets/profile01.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 
@@ -39,6 +42,8 @@ export default {
   email,
   mobile,
   api,
+  csharp,
+  asp,
   cpp,
   css,
   figma,
@@ -60,6 +65,7 @@ export default {
   about03,
   about04,
   profile,
+  profile01,
   circle,
   logo,
   adidas,
