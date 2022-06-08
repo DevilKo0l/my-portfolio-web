@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 
 import { AppWrap } from "../../wrapper";
 import { images } from "../../constants";
+
 import "./Header.scss";
 
 const scaleVariants = {
@@ -29,7 +30,7 @@ const Header = () => {
             <span>👋</span>
             <div style={{ marginLeft: 20 }}>
               <p className="p-text">Hello, I am</p>
-              <h1 className="head-text">Johnathan</h1>
+              <h1 className="head-text">Nathan</h1>
             </div>
           </div>
 
@@ -41,7 +42,7 @@ const Header = () => {
       </motion.div>
 
       <motion.div
-        whileInView={{ x: [-100, 0], opacity: [0, 1] }}
+        whileInView={{ opacity: [0, 1] }}
         transition={{ duration: 0.5, delayChildren: 0.5 }}
         className="app__header-img"
       >

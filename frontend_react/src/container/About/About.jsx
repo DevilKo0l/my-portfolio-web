@@ -6,28 +6,6 @@ import { urlFor, client } from "../../client";
 
 import "./About.scss";
 
-// const abouts = [
-//   {
-//     title: "App Development",
-//     description: "I am a good web developer",
-//     imgUrl: images.about01,
-//   },
-//   {
-//     title: "Frontend Development",
-//     description: "I am a good web developer",
-//     imgUrl: images.about02,
-//   },
-//   {
-//     title: "Backend Development",
-//     description: "I am a good web developer",
-//     imgUrl: images.about03,
-//   },
-//   {
-//     title: "Reality Animation",
-//     description: "I am a good web developer",
-//     imgUrl: images.about04,
-//   },
-// ];
 const About = () => {
   const [abouts, setAbouts] = useState([]);
 
