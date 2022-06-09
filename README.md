@@ -8,7 +8,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nathancao-portfolio.vercel.app">View Demo</a>   
+    <a href="https://nathancao.vercel.app">View Demo</a>   
     
   </p>
 </div>
