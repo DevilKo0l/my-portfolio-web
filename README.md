@@ -3,23 +3,26 @@
   <h3 align="center">My Personal Portfolio</h3>
 
   <p align="center">
-    A website to introduce myself
+    Welcome to my personal portfolio
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nathancao-portfolio.vercel.app">View Demo</a>   
+    <a href="https://nathancao.vercel.app">View Demo</a>   
     
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Welcome to my personal portfolio. 
+This is a modern and responsive porfolio to showcase my works and knowledge.
 
 ### Built With
 The technologies I use in this project inclues:
 * [React.js](https://reactjs.org/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [SCSS](https://sass-lang.com/)
 * [Sanity](https://www.sanity.io/)
 * [Famer Motion](https://www.framer.com/motion/)
