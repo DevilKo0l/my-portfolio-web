@@ -1,5 +1,5 @@
 import React from "react";
-import { BsLinkedin, BsFacebook, BsGithub } from "react-icons/bs";
+import { BsLinkedin, BsGithub } from "react-icons/bs";
 import { FaSteam } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 
@@ -31,15 +31,6 @@ const SocialMedia = () => {
           rel="noopener noreferrer"
         >
           <BsLinkedin />
-        </a>
-      </div>
-      <div>
-        <a
-          href="https://www.facebook.com/yamatano.orochi.391/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <BsFacebook />
         </a>
       </div>
       <div>
