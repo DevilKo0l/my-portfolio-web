@@ -26,7 +26,7 @@ const SocialMedia = () => {
       </div>
       <div>
         <a
-          href="https://www.linkedin.com/in/trung-nguyen-cao-303153172/"
+          href="https://www.linkedin.com/in/nathan-cao/"
           target="_blank"
           rel="noopener noreferrer"
         >
