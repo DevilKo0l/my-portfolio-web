@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a modern and responsive porfolio to showcase my works and knowledge.
+This is a modern and responsive portfolio to showcase my works and knowledge. You can find everything related to me on this website
 
 ### Built With
 The technologies I use in this project inclues:
@@ -37,11 +37,14 @@ You need to install [nodejs](https://nodejs.org/en/)
 ### Installation
 
 1. Clone the repo
-   ```sh
+   ```
    git clone https://github.com/DevilKo0l/my-portfolio-web.git
    ```
 2. Install npm in frontend_react and backend_sanity folder
    ```
    npm install
    ```
-3. Run the project `npm start` in frontend_react folder
+3. Run the project
+   ```
+   npm start
+   ```
