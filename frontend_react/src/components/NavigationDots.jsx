@@ -11,7 +11,9 @@ const NavigationDots = ({ active }) => {
             className="app__navigation-dot"
             style={active === item ? { backgroundColor: "#313BAC" } : {}}
             aria-label={`Go to ${item} section`}
-          />
+          >
+            <span className="sr-only">{item}</span>
+          </a>
         )
       )}
     </div>
